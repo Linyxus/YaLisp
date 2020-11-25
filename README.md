@@ -1,2 +1,4 @@
+![Screenshot](./screenshots/welcome.png)
+
 # YaLisp
- Yet another Lisp interpreter.
+ YaLisp is Yet another Lisp interpreter, written in pure C.
